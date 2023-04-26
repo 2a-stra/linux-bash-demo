@@ -4,6 +4,5 @@ date
 echo "Hello $USER"
 number=$(ls -1 | wc -l)
 
-echo "There are $number items in $PWD"
-
+echo "There are $number items in '$PWD'"
 

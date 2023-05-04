@@ -1,5 +1,5 @@
 #!/bin/bash
-echo -n "Enter your name:"
+echo -n "Enter your name:" Your name
 read name
 echo "Welcome to $(hostname). Current time is $(date)."
 echo "Nice to meet you $name!"
